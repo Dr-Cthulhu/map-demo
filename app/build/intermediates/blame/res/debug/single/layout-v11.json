@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mpan/Documents/codepath/MapsDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/mpan/Documents/codepath/MapsDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/mpan/Documents/codepath/MapsDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/mpan/Documents/codepath/MapsDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mpan/Documents/codepath/MapsDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/mpan/Documents/codepath/MapsDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

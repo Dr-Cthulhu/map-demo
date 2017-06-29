@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mpan/Documents/codepath/MapsDemo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mpan/Documents/codepath/MapsDemo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mpan/Documents/codepath/MapsDemo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

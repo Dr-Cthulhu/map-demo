@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/mpan/.android/build-cache/2047037c2363a015d262d5c3b41571a0d2aa1a3a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/mpan/.android/build-cache/7cef232f256084d2c19d3454c8c3388fd222cb1e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/mpan/.android/build-cache/29ff7b66e17f14a3c60596d95103c8ddfab21d14/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.1] /Users/mpan/.android/build-cache/ad9f08730639e7301b2cf0fc97b2e01ab58adb5a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /Users/mpan/.android/build-cache/2cd5fb5c60e9514cbcc265ed5509b571b325fa6a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /Users/mpan/.android/build-cache/22f1045ead26ec4790e5f29f63739d83d18304b3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/mpan/.android/build-cache/28424c1b7b4889ce141c46978092854e222b4548/output/AndroidManifest.xml:17:5-43
+MERGED from [com.github.hotchemi:permissionsdispatcher:2.4.0] /Users/mpan/.android/build-cache/42dec83cebf72105938686e350b8164b219b41f0/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v13:25.3.1] /Users/mpan/.android/build-cache/284de6fd32436688c2dbbb72308cd11528b2e061/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.3.1] /Users/mpan/.android/build-cache/677bd87b2cfa6b83071074cdd82e79abe155d6a5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/mpan/.android/build-cache/8b0df78f297e61c51d6fb3f92cc1bec8ab549c9c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/mpan/.android/build-cache/643350c1304bbcad96f764e9398a9097153f1b6a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/mpan/.android/build-cache/543cc7f34f8abf1f51980575092659f8a45b4c6f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/mpan/.android/build-cache/ee40e0d94faaed803d2df8914ee4c3749579f1fa/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/mpan/.android/build-cache/58c17f9b46f44bb90799a0ad4acccb3d431e96c3/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:11:5-109
+	android:protectionLevel
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:11:72-107
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:11:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:12:5-111
+	android:protectionLevel
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:12:74-109
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:12:17-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/mpan/.android/build-cache/29ff7b66e17f14a3c60596d95103c8ddfab21d14/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#com.example.mapdemo.permission.MAPS_RECEIVE
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:15:5-83
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:15:22-80
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/mpan/.android/build-cache/29ff7b66e17f14a3c60596d95103c8ddfab21d14/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:18:22-78
+uses-feature#0x00020000
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:20:5-22:35
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/mpan/.android/build-cache/29ff7b66e17f14a3c60596d95103c8ddfab21d14/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:21:9-41
+	android:required
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:22:9-32
+application
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:24:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/mpan/.android/build-cache/2047037c2363a015d262d5c3b41571a0d2aa1a3a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/mpan/.android/build-cache/7cef232f256084d2c19d3454c8c3388fd222cb1e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/mpan/.android/build-cache/29ff7b66e17f14a3c60596d95103c8ddfab21d14/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.1] /Users/mpan/.android/build-cache/ad9f08730639e7301b2cf0fc97b2e01ab58adb5a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /Users/mpan/.android/build-cache/2cd5fb5c60e9514cbcc265ed5509b571b325fa6a/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /Users/mpan/.android/build-cache/22f1045ead26ec4790e5f29f63739d83d18304b3/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/mpan/.android/build-cache/28424c1b7b4889ce141c46978092854e222b4548/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v13:25.3.1] /Users/mpan/.android/build-cache/284de6fd32436688c2dbbb72308cd11528b2e061/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/mpan/.android/build-cache/677bd87b2cfa6b83071074cdd82e79abe155d6a5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/mpan/.android/build-cache/8b0df78f297e61c51d6fb3f92cc1bec8ab549c9c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/mpan/.android/build-cache/643350c1304bbcad96f764e9398a9097153f1b6a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/mpan/.android/build-cache/543cc7f34f8abf1f51980575092659f8a45b4c6f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/mpan/.android/build-cache/ee40e0d94faaed803d2df8914ee4c3749579f1fa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/mpan/.android/build-cache/58c17f9b46f44bb90799a0ad4acccb3d431e96c3/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.example.mapdemo.MapDemoActivity
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:30:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:35:27-74
+uses-library#com.google.android.maps
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:39:9-88
+	android:required
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:39:23-46
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:39:47-85
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:41:9-43:59
+	android:value
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:42:13-62
+meta-data#com.google.android.gms.version
+ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:45:9-47:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/mpan/.android/build-cache/28424c1b7b4889ce141c46978092854e222b4548/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from /Users/mpan/Documents/codepath/MapsDemo/app/src/main/AndroidManifest.xml:46:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/mpan/.android/build-cache/2047037c2363a015d262d5c3b41571a0d2aa1a3a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/mpan/.android/build-cache/7cef232f256084d2c19d3454c8c3388fd222cb1e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v13:25.3.1] /Users/mpan/.android/build-cache/284de6fd32436688c2dbbb72308cd11528b2e061/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/mpan/.android/build-cache/677bd87b2cfa6b83071074cdd82e79abe155d6a5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/mpan/.android/build-cache/8b0df78f297e61c51d6fb3f92cc1bec8ab549c9c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/mpan/.android/build-cache/643350c1304bbcad96f764e9398a9097153f1b6a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/mpan/.android/build-cache/543cc7f34f8abf1f51980575092659f8a45b4c6f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/mpan/.android/build-cache/ee40e0d94faaed803d2df8914ee4c3749579f1fa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/mpan/.android/build-cache/58c17f9b46f44bb90799a0ad4acccb3d431e96c3/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/mpan/.android/build-cache/f60417602c81a28b612d0689c3f8ac3800bf2c66/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/mpan/.android/build-cache/2cd5fb5c60e9514cbcc265ed5509b571b325fa6a/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/mpan/.android/build-cache/2cd5fb5c60e9514cbcc265ed5509b571b325fa6a/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/mpan/.android/build-cache/2cd5fb5c60e9514cbcc265ed5509b571b325fa6a/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/mpan/.android/build-cache/2cd5fb5c60e9514cbcc265ed5509b571b325fa6a/output/AndroidManifest.xml:19:19-85
